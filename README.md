@@ -10,3 +10,6 @@ pip3 install numpy
 
 ## Input
 Input is a CSV file, containing data collected from a signal (such as cryptocurrency time series)
+
+## Run
+run main.py and eter path of the data file as input, the output will be the predicted price in the next day and the norm.
